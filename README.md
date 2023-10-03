@@ -9,5 +9,4 @@ encuentra en Infraestructura en una carpeta interna(Data), TiendaContext heredar
 Para la conexion de base de datos, debemos crear depencias las cuales se haran en Programs.cs de la carpeta API, para finalizar la configuracion de base de datos, se crea una variable de conexion
 en el archivo appsettings.Development.json.
 En este proyecto tambien agregamos metodos y repositorios para poder manipular, acceder, almacenar datos.
-
 pdta: Este proyecto se ejecuta en consola MySql.
